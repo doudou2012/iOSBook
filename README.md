@@ -98,6 +98,7 @@
    * [iOS 添加自定义字体](solutions/solutionchapter93.md)
    * [iOS 实现自定义对象 isEqual 方法](solutions/solutionchapter94.md)
    * [iOS 页面模糊效果的实现](solutions/solutionchapter95.md)
+   * [iOS 项目的目录结构](solutions/solutionchapter96.md)
 * [模块设计总结与实现](modules/README.md)
    * [Module-001](modules/module-001.md)
    * [地图标签与路线绘制模块的设计与实现](modules/module-003.md)
