@@ -161,5 +161,4 @@
 * [其他](others/README.md)
    * [个人简历一](others/others-chapter0.md)
 * [专题](topics)
-   * [Xib 介绍与使用](xib_jie_shao_yu_shi_yong.md)
 
