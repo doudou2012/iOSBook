@@ -4,7 +4,6 @@
 
 * [介绍与目录](README.md)
 * [iOS 开发解决方案](solutions/README.md)
-   <!--* [solution-模板](solutions/solution-template.md)-->
    * [Base64 编码](solutions/solutionchapter1.md)
    * [Aes 加密](solutions/solutionchapter2.md)
    * [MD5 算法](solutions/solutionchapter3.md)
@@ -99,35 +98,17 @@
    * [iOS 添加自定义字体](solutions/solutionchapter93.md)
    * [iOS 实现自定义对象 isEqual 方法](solutions/solutionchapter94.md)
    * [iOS 页面模糊效果的实现](solutions/solutionchapter95.md)
-   <!--* [solutionchapter96](solutions/solutionchapter96.md)-->
-   <!--* [solutionchapter97](solutions/solutionchapter97.md)-->
-   <!--* [solutionchapter98](solutions/solutionchapter98.md)-->
-   <!--* [solutionchapter99](solutions/solutionchapter99.md)-->
-   <!--* [solutionchapter100](solutions/solutionchapter100.md)-->
 * [模块设计总结与实现](modules/README.md)
    * [Module-001](modules/module-001.md)
    * [地图标签与路线绘制模块的设计与实现](modules/module-003.md)
    * [网络请求接口管理模块的设计与实现](modules/module-004.md)
    * [查询搜索逻辑的优化设计](modules/module-005.md)
    * [页面聊天模块的设计与实现](modules/module006.md)
-   <!--* [Module-007](modules/module-007.md)-->
-   <!--* [Module-008](modules/module-008.md)-->
-   <!--* [Module-009](modules/module-009.md)-->
-   <!--* [Module-010](modules/module-010.md)-->
 * [问答](questions/README.md)
    * [Question-模板](questions/question-template.md)
    * [iOS App 开发常用设计模式有哪些](questions/questionchapter1.md)
    * [iOS 开发面试问题集合](questions/questionchapter2.md)
-   <!--* [questionchapter3](questions/questionchapter3.md)-->
-   <!--* [questionchapter4](questions/questionchapter4)-->
-   <!--* [questionchapter5](questions/questionchapter5)-->
-   <!--* [questionchapter6](questions/questionchapter6)-->
-   <!--* [questionchapter7](questions/questionchapter7)-->
-   <!--* [questionchapter8](questions/questionchapter8)-->
-   <!--* [questionchapter9](questions/questionchapter9)-->
-   <!--* [questionchapter10](questions/questionchapter10.md)-->
 * [优秀第三方库介绍](thirdparts/README.md)
-   <!--* [ThirdPart-模板](thirdparts/thirdpart-template.md)-->
 * [操作系统与开发工具](system_and_tools/README.md)
    * [修改 Mac OS X root 密码](system_and_tools/systemchapter1.md)
    * [使用 Automator 批量重命名](system_and_tools/systemchapter2.md)
@@ -147,13 +128,8 @@
    * [iOS 项目结构参考](documents/documents-005.md)
    * [苹果审核未通过问题与解决方案参考](documents/documents-006.md)
    * [DevSampleKit介绍](documents/documents-007.md)
-   <!--* [documents-008](documents/documents-008)-->
-   <!--* [documents-009](documents/documents-009)-->
-   <!--* [documents-010](documents/documents-010)-->
 * [测试解决方案](testmanager/README.md)
-   <!--* [test-001](testmanager/test-001.md)-->
    * [iOS 下自动化测试框架介绍](testmanager/test-002.md)
-   <!--* [test-003](testmanager/test-003.md)-->
 * [专题总结](topics/README.md)
    * [Xcode warning 清理总结](topics/xcode_warning_qing_li_zong_jie.md)
    * [Xib 介绍与使用](topics/xib_jie_shao_yu_shi_yong.md)
