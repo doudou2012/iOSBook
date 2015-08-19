@@ -97,7 +97,7 @@
    * [iOS 添加自定义字体](solutions/solutionchapter93.md)
    * [iOS 实现自定义对象 isEqual 方法](solutions/solutionchapter94.md)
    * [iOS 页面模糊效果的实现](solutions/solutionchapter95.md)
-   <!--* [solutionchapter96](solutions/solutionchapter96.md)-->
+   * [iOS 项目的目录结构](solutions/solutionchapter96.md)
    <!--* [solutionchapter97](solutions/solutionchapter97.md)-->
    <!--* [solutionchapter98](solutions/solutionchapter98.md)-->
    <!--* [solutionchapter99](solutions/solutionchapter99.md)-->
