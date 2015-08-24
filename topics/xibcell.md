@@ -46,7 +46,7 @@ Xib \ UITableViewCell \ 自定义
         if (!cell)
         {
             NSArray *nib = [[NSBundle mainBundle] loadNibNamed:@"TestTableViewCell" owner:[TestTableViewCell class] options:nil];
-            cell = (TestTableViewCell *)[nib objectAtIndex:0];
+            cell = (TestTableViewCell *)[nib objectAtIndex:0];  //这里的 0 表示 xib 中第 1 个View，也就是 Test TableView Cell
         }
         cell.selectionStyle = UITableViewCellSelectionStyleNone;
         //...
