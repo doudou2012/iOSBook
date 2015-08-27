@@ -100,6 +100,8 @@
    * [iOS 页面模糊效果的实现](solutions/solutionchapter95.md)
    * [iOS 项目的目录结构](solutions/solutionchapter96.md)
    * [iOS 删除 NSString 中特定字符](solutions/solutionchapter97.md)
+   * [iOS 筛选出 NSString 中特定字符串](solutions/solutionchapter98.md)
+   * [UIView - 完全复制一个 UIView](solutions/solutionchapter99.md)
 * [模块设计总结与实现](modules/README.md)
    * [Module-001](modules/module-001.md)
    * [地图标签与路线绘制模块的设计与实现](modules/module-003.md)
@@ -142,4 +144,5 @@
    * [优秀博客文章分类收集整理](excellentarticles/excellentarticale1.md)
    * [优秀开发相关网站博客收集整理](excellentarticles/excellentarticale2.md)
 * [其他](others/README.md)
+
 
