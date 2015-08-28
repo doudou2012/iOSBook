@@ -4,7 +4,7 @@
 | 1 | 2015-02-27 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 3DES加密(包含JAVA服务器端解密)
+NSString / NSData - 3DES 加密(包含JAVA服务器端解密)
 
 ### 方案类型（推荐 or 参考）
 推荐方案

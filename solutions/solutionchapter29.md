@@ -4,7 +4,7 @@
 | 1 | 2015-03-12 | Alfred Jiang | - |
 
 ### 方案名称
-iOS RSA加密(包含JAVA服务器端解密)
+NSString / NSData - RSA 加密(包含JAVA服务器端解密)
 
 ### 方案类型（推荐 or 参考）
 推荐方案

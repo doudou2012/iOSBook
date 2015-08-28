@@ -4,7 +4,7 @@
 | 1 | 2015-03-03 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 使用 FYHDBManager 管理 Coredata
+CoreData - 使用 FYHDBManager 管理 CoreData
 
 ### 方案类型（推荐 or 参考）
 推荐方案

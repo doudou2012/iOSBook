@@ -4,7 +4,7 @@
 | 1 | 2015-03-18 | Alfred Jiang | - |
 
 ### 方案名称
-使用 ClusterPrePermissions 更加友好的提示授权操作
+授权 - 使用 ClusterPrePermissions 更加友好的提示授权操作
 
 ### 方案类型（推荐 or 参考）
 推荐方案

@@ -4,7 +4,7 @@
 | 1 | 2015-03-02 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 序列化对象
+数据持久化 - 序列化对象
 
 ### 方案类型（推荐 or 参考）
 推荐方案
@@ -242,4 +242,4 @@ iOS 序列化对象
 （无）
 
 ### 备注
-NSJSONSerialization比NSKeyedArchiver在速度更快，而且序列化之后的体积更小，推荐优先使用NSJSONSerialization方式进行序列化操作
+NSJSONSerialization 比 NSKeyedArchiver 在速度更快，而且序列化之后的体积更小，推荐优先使用 NSJSONSerialization 方式进行序列化操作

@@ -4,7 +4,7 @@
 | 1 | 2015-03-01 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 避免 UIButton 多次重复点击
+UIButton - 避免多次重复点击
 
 ### 方案类型（推荐 or 参考）
 推荐方案

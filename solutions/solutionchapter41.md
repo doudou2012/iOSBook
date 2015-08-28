@@ -4,7 +4,7 @@
 | 1 | 2015-03-18 | Alfred Jiang | - |
 
 ### 方案名称
-使用 LBBlurredImage 实现图像模糊效果
+UIImageView - 使用 LBBlurredImage 实现图像模糊效果
 
 ### 方案类型（推荐 or 参考）
 推荐方案

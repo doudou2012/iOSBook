@@ -4,7 +4,7 @@
 | 1 | 2015-02-27 | Alfred Jiang | - |
 
 ### 方案名称
-iOS base64编码
+NSString / NSData - Base64 编码
 
 ### 方案类型（推荐 or 参考）
 推荐方案

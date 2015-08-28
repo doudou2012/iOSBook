@@ -4,7 +4,7 @@
 | 1 | 2015-03-23 | Alfred Jiang | - |
 
 ### 方案名称
-通过 UISearchDisplayViewController 实现全屏搜索显示效果
+UISearchBar - 通过 UISearchDisplayViewController 实现全屏搜索显示效果
 
 ### 方案类型（推荐 or 参考）
 推荐方案

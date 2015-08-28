@@ -4,7 +4,7 @@
 | 1 | 2015-03-02 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 弧度（radians）和角度转换（degree）
+语法 - 弧度（radians）和角度转换（degree）
 
 ### 方案类型（推荐 or 参考）
 推荐方案

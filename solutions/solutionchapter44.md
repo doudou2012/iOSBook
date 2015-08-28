@@ -4,7 +4,7 @@
 | 1 | 2015-03-23 | Alfred Jiang | - |
 
 ### 方案名称
-使用 EGORefreshTableHeaderView 实现下拉刷新 UITableView
+UITableView - 使用 EGORefreshTableHeaderView 实现下拉刷新 UITableView
 
 ### 方案类型（推荐 or 参考）
 推荐方案

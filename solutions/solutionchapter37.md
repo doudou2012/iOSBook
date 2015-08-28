@@ -4,7 +4,7 @@
 | 1 | 2015-03-18 | Alfred Jiang | - |
 
 ### 方案名称
-使用 SubjectiveCPhotoPanner 实现动作感应显示图片
+特殊控件 - 使用 SubjectiveCPhotoPanner 实现动作感应显示图片
 
 ### 方案类型（推荐 or 参考）
 推荐方案

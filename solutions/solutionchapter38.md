@@ -4,13 +4,13 @@
 | 1 | 2015-03-18 | Alfred Jiang | - |
 
 ### 方案名称
-IOS APP LAUNCH OPTION
+AppDelegate - IOS APP LAUNCH OPTION
 
 ### 方案类型（推荐 or 参考）
 推荐方案
 
 ### 关键字
-ApplicationDelegate \ didFinishLaunchingWithOptions \ 应用启动
+ApplicationDelegate \ didFinishLaunchingWithOptions \ 应用启动 \ AppDelegate
 
 ### 需求场景
 1. 需要对应用启动进行类别区分时

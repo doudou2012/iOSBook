@@ -4,7 +4,7 @@
 | 1 | 2015-03-24 | Alfred Jiang | - |
 
 ### 方案名称
-通过 contentInset 属性设置 UITableView \ UIScrollView 周边间距
+UITableView / UIScrollView - 通过 contentInset 属性设置周边间距
 
 ### 方案类型（推荐 or 参考）
 推荐方案

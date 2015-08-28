@@ -4,7 +4,7 @@
 | 1 | 2015-02-27 | Alfred Jiang | - |
 
 ### 方案名称
-iOS MD5 实现
+NSString / NSData - MD5 加密
 
 ### 方案类型（推荐 or 参考）
 推荐方案
@@ -13,7 +13,7 @@ iOS MD5 实现
 加密 \ MD5
 
 ### 需求场景
-1. 对信息有特殊的MD5摘要算法需求
+1. 对信息有特殊的 MD5 摘要算法需求
 
 ### 参考链接
 1. [stackoverflow](http://stackoverflow.com/questions/1524604/md5-algorithm-in-objective-c)

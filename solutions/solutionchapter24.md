@@ -4,7 +4,7 @@
 | 1 | 2015-03-03 | Alfred Jiang | - |
 
 ### 方案名称
-iOS7 的多任务处理——远程通知（Remote Notifications）
+通知 - iOS7 的多任务处理——远程通知（Remote Notifications）
 
 ### 方案类型（推荐 or 参考）
 推荐方案

@@ -4,7 +4,7 @@
 | 1 | 2015-03-04 | Alfred Jiang | - |
 
 ### 方案名称
-iOS Core Animation 之 CABaseAnimation
+动画 - Core Animation 之 CABaseAnimation
 
 ### 方案类型（推荐 or 参考）
 推荐方案

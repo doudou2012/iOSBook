@@ -4,7 +4,7 @@
 | 1 | 2015-03-05 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 使用 AFNetworking 实现网络请求
+网络 - 使用 AFNetworking 实现网络请求
 
 ### 方案类型（推荐 or 参考）
 推荐方案

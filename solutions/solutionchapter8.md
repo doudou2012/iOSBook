@@ -7,7 +7,7 @@
 iOS Block 介绍与使用
 
 ### 方案类型（推荐 or 参考）
-推荐方案
+Block - 介绍与使用
 
 ### 关键字
 Block \ Dispatch \ GCD \ 异步 \ 并行
@@ -234,4 +234,12 @@ dispatch_group_enter()和dispatch_group_leave()通常是成对出现的（就算
 （无）
 
 ### 备注
-（无）
+
+1. block 在实现时就会对它引用到的它所在方法中定义的栈变量进行一次只读拷贝，然后在 block 块内使用该只读拷贝；
+
+2. 非内联（inline） block 不能直接访问 self，只能通过将 self 当作参数传递到 block 中才能使用，并且此时的 self 只能通过 setter 或 getter 方法访问其属性，不能使用句点式方法。但内联 block 不受此限制；
+
+3. 使用 weak–strong dance 技术来避免循环引用；
+
+4. block 内存管理分析：
+block 其实也是一个 NSObject 对象，并且在大多数情况下，block 是分配在栈上面的，只有当 block 被定义为全局变量或 block 块中没有引用任何 automatic 变量时，block 才分配在全局数据段上。 __block 变量也是分配在栈上面的。
