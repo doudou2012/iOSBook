@@ -4,7 +4,7 @@
 | 1 | 2015-04-03 | Alfred Jiang | - |
 
 ### 方案名称
-使用 SSZipArchive 实现文件的压缩和解压缩
+文件 - 使用 SSZipArchive 实现文件的压缩和解压缩
 
 ### 方案类型（推荐 or 参考）
 推荐方案

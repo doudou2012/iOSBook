@@ -4,7 +4,7 @@
 | 1 | 2015-08-21 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 删除 NSString 中特定字符
+NSString - 删除 NSString 中特定字符
 
 ### 方案类型（推荐 or 参考）
 推荐方案

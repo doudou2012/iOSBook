@@ -4,7 +4,7 @@
 | 1 | 2015-08-25 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 筛选出 NSString 中特定字符串
+NSString - 筛选出 NSString 中特定字符串
 
 ### 方案类型（推荐 or 参考）
 推荐方案

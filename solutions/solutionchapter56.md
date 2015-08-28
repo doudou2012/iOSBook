@@ -4,7 +4,7 @@
 | 1 | 2015-03-26 | Alfred Jiang | - |
 
 ### 方案名称
-使用 IQKeyboardManager 完美解决IOS开发键盘遮挡
+键盘 - 使用 IQKeyboardManager 完美解决IOS开发键盘遮挡
 
 ### 方案类型（推荐 or 参考）
 推荐方案

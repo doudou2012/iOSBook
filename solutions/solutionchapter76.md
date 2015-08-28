@@ -4,7 +4,7 @@
 | 1 | 2015-04-22 | Alfred Jiang | - |
 
 ### 方案名称
-使用 SlideNavigationController 实现侧滑需求
+UINavigationController - 使用 SlideNavigationController 实现侧滑需求
 
 ### 方案类型（推荐 or 参考）
 推荐方案

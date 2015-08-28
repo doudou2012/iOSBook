@@ -24,16 +24,7 @@ iOS 开发截屏方案
 
 ##### Swift
 
-    func screenShotMethod() {
-        //Create the UIImage
-        UIGraphicsBeginImageContext(view.frame.size)
-        view.layer.renderInContext(UIGraphicsGetCurrentContext())
-        let image = UIGraphicsGetImageFromCurrentImageContext()
-        UIGraphicsEndImageContext()
 
-        //Save it to the camera roll
-        UIImageWriteToSavedPhotosAlbum(image, nil, nil, nil)
-    }
 
 ### 效果图
 （无）

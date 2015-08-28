@@ -4,7 +4,7 @@
 | 1 | 2015-04-02 | Alfred Jiang | - |
 
 ### 方案名称
-使用 RNLoadingButton 实现等待按钮
+UIButton - 使用 RNLoadingButton 实现等待按钮
 
 ### 方案类型（推荐 or 参考）
 推荐方案

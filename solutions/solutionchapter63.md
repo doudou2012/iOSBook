@@ -4,16 +4,16 @@
 | 1 | 2015-03-31 | Alfred Jiang | - |
 
 ### 方案名称
-通过字符串长度计算显示框大小的方法
+UILabel - 通过字符串长度计算显示框大小的方法
 
 ### 方案类型（推荐 or 参考）
 推荐方案
 
 ### 关键字
-UILable \ Size \ UITextView \ CGSize \ CGFrame
+UILabel \ Size \ UITextView \ CGSize \ CGFrame
 
 ### 需求场景
-1. 根据一段文字动态计算出用于显示的 UILable 或 UITextView 等控件的显示大小
+1. 根据一段文字动态计算出用于显示的 UILabel 或 UITextView 等控件的显示大小
 
 ### 参考链接
 （无）

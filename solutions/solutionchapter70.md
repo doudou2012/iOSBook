@@ -5,7 +5,7 @@
 | 1 | 2015-08-18 | Alfred Jiang | 更新OC示例 |
 
 ### 方案名称
-手动添加 Auto Layout 约束
+Auto Layout - 手动添加 Auto Layout 约束
 
 ### 方案类型（推荐 or 参考）
 推荐方案

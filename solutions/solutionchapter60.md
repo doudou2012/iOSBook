@@ -4,7 +4,7 @@
 | 1 | 2015-03-30 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 开发 UIPageControl 显示的实现
+UIPageControl - 翻页显示的实现
 
 ### 方案类型（推荐 or 参考）
 推荐方案

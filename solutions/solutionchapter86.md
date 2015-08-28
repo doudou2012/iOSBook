@@ -4,7 +4,7 @@
 | 1 | 2015-05-05 | Alfred Jiang | - |
 
 ### 方案名称
-iOS App 跳转 App Store 下载和 App Store 评论
+openURL - iOS App 跳转 App Store 下载和 App Store 评论
 
 ### 方案类型（推荐 or 参考）
 推荐方案

@@ -4,7 +4,7 @@
 | 1 | 2015-04-03 | Alfred Jiang | - |
 
 ### 方案名称
-使用 POViewFrameBuilder 快速实现 UIView 的动画移动和布局
+动画 - 使用 POViewFrameBuilder 快速实现 UIView 的动画移动和布局
 
 ### 方案类型（推荐 or 参考）
 推荐方案

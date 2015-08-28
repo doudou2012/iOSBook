@@ -4,7 +4,7 @@
 | 1 | 2015-08-07 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 实现自定义对象 isEqual 方法
+NSObject - 实现自定义对象 isEqual 方法
 
 ### 方案类型（推荐 or 参考）
 推荐方案

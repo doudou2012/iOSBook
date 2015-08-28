@@ -5,7 +5,7 @@
 | 2 | 2015-05-11 | Alfred Jiang | 增加 RKNotificationHub|
 
 ### 方案名称
-iOS badge 显示的实现(使用 UIBarButtonItem-Badge)
+UIButton - badge 显示的实现(使用 UIBarButtonItem-Badge)
 
 ### 方案类型（推荐 or 参考）
 推荐方案

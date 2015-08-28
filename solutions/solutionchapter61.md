@@ -4,7 +4,7 @@
 | 1 | 2015-03-31 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 开发 MKMapView 地图开发相关总结
+地图 - MKMapView 地图开发相关总结
 
 ### 方案类型（推荐 or 参考）
 推荐方案

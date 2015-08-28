@@ -4,7 +4,7 @@
 | 1 | 2015-03-27 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 开发给 UIScrollView 添加 Autolayout 约束条件
+UIScrollView - 给 UIScrollView 添加 Autolayout 约束条件
 
 ### 方案类型（推荐 or 参考）
 推荐方案

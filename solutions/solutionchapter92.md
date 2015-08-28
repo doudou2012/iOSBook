@@ -4,7 +4,7 @@
 | 1 | 2015-06-09 | Alfred Jiang | - |
 
 ### 方案名称
-iOS 在 NSMutableSet 中添加自定义对象时怎么保证不重复
+NSMutableSet - 在NSMutableSet中添加自定义对象时怎么保证不重复
 
 ### 方案类型（推荐 or 参考）
 推荐方案
