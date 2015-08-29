@@ -147,3 +147,5 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">《iOSBook》 以及内部全部文章</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/viktyz/iOSBook" property="cc:attributionName" rel="cc:attributionURL">Alfred Jiang</a> 编辑制作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享 Attribution-NonCommercial-NoDerivatives 4.0 国际 许可协议</a>进行许可。<br />基于<a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/viktyz/iOSBook" rel="dct:source">https://github.com/viktyz/iOSBook</a>上的作品创作。
 
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1256214145'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1256214145%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+
