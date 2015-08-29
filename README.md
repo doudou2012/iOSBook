@@ -103,7 +103,6 @@
    * [其他 - 可视控件介绍与可定制替代方案推荐](solutions/solutionchapter78.md)
    * [其他 - 控制器介绍](solutions/solutionchapter79.md)
    * [其他 - iOS 设备处理器指令集参考](solutions/solutionchapter87.md)
-   * [--](solutions/solutionchapter100.md)
 * [模块设计总结与实现](modules/README.md)
    * [Module-001](modules/module-001.md)
    * [地图标签与路线绘制模块的设计与实现](modules/module-003.md)
