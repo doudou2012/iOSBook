@@ -4,10 +4,10 @@
 | 1 | 2015-03-02 | Alfred Jiang | - |
 
 ### 方案名称
-iOS Block 介绍与使用
+Block - 介绍与使用
 
 ### 方案类型（推荐 or 参考）
-Block - 介绍与使用
+推荐
 
 ### 关键字
 Block \ Dispatch \ GCD \ 异步 \ 并行
