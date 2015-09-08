@@ -39,8 +39,54 @@ UITableView \ UITableViewCell \ reloadData \ 列表 \ 滑动 \ 卡顿 \ 性能�
         static NSString *CellIdentifier = @"MyFancyCell";
         UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
         
-12. 尽量把views设置为不透明
-![](Opaque.png)
+12. 尽量把所有的 UIView 以及其子类控件设置为不透明（Opaque = YES）,你可以在模拟器中用Debug\Color Blended Layers选项来发现哪些view没有被设置为opaque。目标就是，能设为opaque的就全设为opaque!
+    
+    ![](images/Opaque.png)
+
+13. 尽量避免图片压缩，模拟器条件下使用 Debug\Color Misaligned Images 选项检查像素是否对其:如果图片边界没有与目标像素完美对齐，该功能可为图片叠加上一层品红色。如果图片使用确定的比例大小绘制，那么该功能会为图片添加一层黄色叠加。真机条件下使用 Instrument 中的 Core Animation 工具检查；
+    ![](misalignedImages.png)
+
+13. 使用`shadowPath`来画阴影;
+
+        #import <QuartzCore/QuartzCore.h>
+ 
+        // Somewhere later ...
+        UIView *view = [[UIView alloc] init];
+         
+        // Setup the shadow ...
+        view.layer.shadowOffset = CGSizeMake(-1.0f, 1.0f);
+        view.layer.shadowRadius = 5.0f;
+        view.layer.shadowOpacity = 0.6;
+
+14. 减少subviews的数量;
+15. 尽量不使用`cellForRowAtIndexPath:`，如果你需要用到它，只用一次然后缓存结果；
+16. 使用Autorelease Pool；
+
+        NSArray *urls = <# An array of file URLs #>;
+        for (NSURL *url in urls) {
+            @autoreleasepool {
+                NSError *error;
+                NSString *fileContents = [NSString stringWithContentsOfURL:url
+                                                 encoding:NSUTF8StringEncoding error:&error];
+            }
+        }
+
+17. 选择是否需要缓存；
+
+        UIImage *img = [UIImage imageNamed:@"myImage"]; 
+        // caching
+         
+        // or
+         UIImage *img = [UIImage imageWithContentsOfFile:@"myImage"]; 
+        // no caching
+        
+        如果你要加载一个大图片而且是一次性使用，那么就没必要缓存这个图片，
+        用`imageWithContentsOfFile`足矣，这样不会浪费内存来缓存它。
+        然而，在图片反复重用的情况下`imageNamed`是一个好得多的选择。
+
+18. 避免日期格式转换；相关日期显示应该在 Model 中定义完成。
+19. 
+
 ### 效果图
 （无）
 
