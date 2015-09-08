@@ -70,7 +70,6 @@
    * [地图 - MKMapView 地图开发相关总结](solutions/solutionchapter61.md)
    * [UITableView - 使用 EGORefreshTableHeaderView 实现下拉刷新 UITableView](solutions/solutionchapter44.md)
    * [UITableView - 滑动加载优化总结](uitableview_-_hua_dong_jia_zai_you_hua_zong_jie.md)
-       * UITableView - 滑动加载性能优化总结
    * [UITableView / UIScrollView - 通过 contentInset 属性设置周边间距](solutions/solutionchapter47.md)
    * [UIScrollView - 给 UIScrollView 添加 Autolayout 约束条件](solutions/solutionchapter58.md)
    * [UISearchBar - 通过 UISearchDisplayViewController 实现全屏搜索显示效果](solutions/solutionchapter45.md)
