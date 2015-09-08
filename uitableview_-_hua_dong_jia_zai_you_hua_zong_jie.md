@@ -37,7 +37,7 @@ UITableView \ UITableViewCell \ reloadData \ 列表 \ 滑动 \ 卡顿 \ 性能�
         static NSString *CellIdentifier = @"Cell";
         UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
 
-
+![image](/images/ReuseIdentifier.png)
 ### 效果图
 （无）
 
