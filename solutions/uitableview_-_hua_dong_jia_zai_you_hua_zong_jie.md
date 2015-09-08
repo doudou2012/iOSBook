@@ -40,7 +40,7 @@ UITableView \ UITableViewCell \ reloadData \ 列表 \ 滑动 \ 卡顿 \ 性能�
         UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
         
 12. 尽量把views设置为不透明
-
+![](Opaque.png)
 ### 效果图
 （无）
 
