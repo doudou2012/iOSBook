@@ -57,4 +57,4 @@ Xib \ UITableViewCell \ 自定义
 （无）
 
 ### 备注
-1. 尽量避免在 cell 的数据加载中进行数据运算，相关 cell 的显示依赖数据，尽量在 Model 中初始化完成， cell 直接读取显示。
+1. 尽量避免在 cell 的数据加载中进行数据运算，相关 cell 的显示依赖数据，尽量在 Model 中初始化完成， cell 直接读取显示。更多参考《[UITableView - 滑动加载性能优化总结](solutions/uitableview_-_hua_dong_jia_zai_you_hua_zong_jie.md)》
