@@ -3,8 +3,9 @@
 #####该博客通过 [GitBook](www.gitbook.com) 工具制作，并发布于个人 GitHub Pages，希望您喜欢。
 #####邮箱： 66745628@qq.com
 ---------
-#### 最新更新（2015/9/9）
+#### 最新更新（2015/10/13）
 
+ * [UIViewController - 旋转问题 willRotateToInterfaceOrientation 方法无法正常调用](solutions/solutionchapter101.md)
  * [UIWebView - 使用 UIWebViewToFile 实现 UIWebView 内容转为 Image 或 PDF](solutions/solutionchapter100.md)
  * [UITableView - 滑动加载性能优化总结](solutions/uitableview_-_hua_dong_jia_zai_you_hua_zong_jie.md)
 
@@ -38,6 +39,7 @@
    * [UIPageControl - 翻页显示的实现](solutions/solutionchapter60.md)
    * [UIView - 代码实现截图功能](solutions/solutionchapter33.md)
    * [UIView - 完全复制一个 UIView](solutions/solutionchapter99.md)
+   * [UIViewController - 旋转问题 willRotateToInterfaceOrientation 方法无法正常调用](solutions/solutionchapter101.md)
    * [UIButton - 避免多次重复点击](solutions/solutionchapter5.md)
    * [UIButton - 使用 RNLoadingButton 实现等待按钮](solutions/solutionchapter66.md)
    * [UIButton - badge 显示的实现(使用 UIBarButtonItem-Badge)](solutions/solutionchapter75.md)
