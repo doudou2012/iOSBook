@@ -100,6 +100,7 @@
    * [内购 - iOS 内购的快速实现](solutions/solutionchapter82.md)
    * [系统服务 - 调用系统应用和系统服务](solutions/solutionchapter83.md)
    * [字体 - 添加自定义字体](solutions/solutionchapter93.md)
+   * [版本兼容 - 7/8 - 无法正确获取 iPad 横竖屏宽高解决方案](solutions/solutionchapter93solutionchapter102.md)
    * [其他 - 可视控件介绍与可定制替代方案推荐](solutions/solutionchapter78.md)
    * [其他 - 控制器介绍](solutions/solutionchapter79.md)
    * [其他 - iOS 设备处理器指令集参考](solutions/solutionchapter87.md)

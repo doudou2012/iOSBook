@@ -3,8 +3,9 @@
 #####该博客通过 [GitBook](www.gitbook.com) 工具制作，并发布于个人 GitHub Pages，希望您喜欢。
 #####邮箱： 66745628@qq.com
 ---------
-#### 最新更新（2015/10/13）
+#### 最新更新（2015/10/19）
 
+ * [版本兼容 - 7/8 - 无法正确获取 iPad 横竖屏宽高解决方案](solutions/solutionchapter102.md)
  * [UIViewController - 旋转问题 willRotateToInterfaceOrientation 方法无法正常调用](solutions/solutionchapter101.md)
  * [UIWebView - 使用 UIWebViewToFile 实现 UIWebView 内容转为 Image 或 PDF](solutions/solutionchapter100.md)
  * [UITableView - 滑动加载性能优化总结](solutions/uitableview_-_hua_dong_jia_zai_you_hua_zong_jie.md)
@@ -111,6 +112,7 @@
    * [内购 - iOS 内购的快速实现](solutions/solutionchapter82.md)
    * [系统服务 - 调用系统应用和系统服务](solutions/solutionchapter83.md)
    * [字体 - 添加自定义字体](solutions/solutionchapter93.md)
+   * [版本兼容 - 7/8 - 无法正确获取 iPad 横竖屏宽高解决方案](solutions/solutionchapter102.md)
    * [其他 - 可视控件介绍与可定制替代方案推荐](solutions/solutionchapter78.md)
    * [其他 - 控制器介绍](solutions/solutionchapter79.md)
    * [其他 - iOS 设备处理器指令集参考](solutions/solutionchapter87.md)
